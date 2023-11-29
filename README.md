@@ -45,7 +45,8 @@ The Visual Decision Engine is a web application that empowers users to choose be
 
 ## Demo
 
-![Demo](link_to_demo_gif_or_screenshot)
+![Demo](![image](https://github.com/Shyamsurya-99/VisualResolve-Orchestrator/assets/110275462/23d6cdc4-21af-436e-b72f-4823e7e8fef2)
+)
 
 Include a GIF or screenshot of your application in action.
 

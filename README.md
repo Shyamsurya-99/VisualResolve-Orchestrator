@@ -1,5 +1,4 @@
-# VisualResolve-Orchestrator
-# Visual Decision Engine
+# VisualResolve-Orchestrator(object detection and image classification)
 
 ![Project Logo](link_to_your_logo_image)
 

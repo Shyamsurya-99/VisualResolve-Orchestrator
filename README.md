@@ -1,6 +1,5 @@
 # VisualResolve-Orchestrator(object detection and image classification)
 
-![Project Logo](link_to_your_logo_image)
 
 ## Overview
 
@@ -71,5 +70,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-- **Your Name:** [Your Name]
-- **Email:** [Your Email]
+- **Your Name:** Shyam surya G
+- **Email:** shyamsurya54@gmail.com
